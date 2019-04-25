@@ -1,8 +1,8 @@
 # JavaScript-screenshot  
 
-[![star this repo](http://githubbadges.com/star.svg?user=qicainiao&repo=JavaScript-screenshot&style=default)](https://github.com/qicainiao/JavaScript-screenshot)[![fork this repo](http://githubbadges.com/fork.svg?user=usecodelee&repo=JavaScript-screenshot&style=default)](https://github.com/qicainiao/JavaScript-screenshot/fork) [![npm](https://img.shields.io/npm/v/js_screen_shots.svg)](https://www.npmjs.com/package/js_screen_shots) [![languages](https://img.shields.io/badge/javascript-81.4%25-green.svg)](https://github.com/qicainiao/JavaScript-screenshot) [![node](https://img.shields.io/badge/node-%3E1.0.0-green.svg)](https://github.com/qicainiao/JavaScript-screenshot) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![star this repo](http://githubbadges.com/star.svg?user=qicainiao&repo=JavaScript-screenshot&style=default)](https://github.com/qicainiao/JavaScript-screenshot)[![fork this repo](http://githubbadges.com/fork.svg?user=qicainiao&repo=JavaScript-screenshot&style=default)](https://github.com/qicainiao/JavaScript-screenshot/fork) [![npm](https://img.shields.io/npm/v/js_screen_shots.svg)](https://www.npmjs.com/package/js_screen_shots) [![languages](https://img.shields.io/badge/javascript-81.4%25-green.svg)](https://github.com/qicainiao/JavaScript-screenshot) [![node](https://img.shields.io/badge/node-%3E1.0.0-green.svg)](https://github.com/qicainiao/JavaScript-screenshot) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-[中文](https://github.com/usecodelee/JavaScript-screenshot/blob/master/README_zh.md) 
+[中文](https://github.com/qicainiao/JavaScript-screenshot/blob/master/README_zh.md) 
 
 ## Introduction
 
@@ -16,7 +16,7 @@ I mainly made two demos and one NPM package:
 1. [Simple Version](https://github.com/qicainiao/JavaScript-screenshot/tree/master/simple)
 2. [Webpack+Vue+Element Version](https://github.com/qicainiao/JavaScript-screenshot/tree/master/simple)
 3. [js-screenshot-for-npm](https://github.com/qicainiao/JavaScript-screenshot/tree/master/js-screenshot-for-npm)
-4. [reactCli Version](https://github.com/usecodelee/JavaScript-screenshot/tree/master/reactcli)
+4. [reactCli Version](https://github.com/qicainiao/JavaScript-screenshot/tree/master/reactcli)
 
 ## Simple Version Of Use 
 
